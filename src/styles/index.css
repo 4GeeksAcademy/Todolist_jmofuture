@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+li {
+    transition: background-color 0.3s ease;
+  }
